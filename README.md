@@ -1,6 +1,6 @@
 # Альфа-Аналитика для Бизнеса
 
-**🚀 Live Application (Streamlit Cloud):** [https://xfyypucheqe9o52bzzmtsd.streamlit.app/](https://xfyypucheqe9o52bzzmtsd.streamlit.app/)
+**🚀 Live Application (Streamlit Cloud):** [https://aiden3630-alfa.streamlit.app/](https://aiden3630-alfa.streamlit.app/)
 
 **Исходный совместный проект:** [ArtemChik103/alfa](https://github.com/ArtemChik103/alfa)
 
